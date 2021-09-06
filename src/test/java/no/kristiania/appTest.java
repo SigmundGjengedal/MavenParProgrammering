@@ -11,6 +11,6 @@ public class appTest {
     }
     @Test
     void shouldReturnII(){
-        assertEquals("I", App.convert1ToI(2));
+        assertEquals("II", App.convert1ToII(2));
     }
 }
